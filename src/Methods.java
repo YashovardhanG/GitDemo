@@ -13,5 +13,11 @@ public static void  second() {
 		System.out.println("This is second method");
 		
 	}
+
+public static void  third() {
+	
+	System.out.println("This is third method");
+	
+}
 	
 }

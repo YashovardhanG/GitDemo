@@ -10,6 +10,8 @@ public class Parent {
 		Methods m1 = new Methods();
 		
         m1.first();
+        
+        Methods.third();
 	}
 
 }
