@@ -12,6 +12,8 @@ public class Parent {
         m1.first();
         
         Methods.third();
+        
+        Methods.fourth();
 	}
 
 }
